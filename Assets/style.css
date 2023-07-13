@@ -1,5 +1,5 @@
 body {
-    font-family: serif;
+    font-family: 'Lato', 'Agdasima', sans-serif;
 }
 .wrapper {
     margin: 150px auto 0 auto;
@@ -27,6 +27,10 @@ li:nth-child(odd) {
     position: absolute;
     top: 15px;
     left: 15px;
+}
+.highscores{
+    color: white;
+    background-color: peru;
 }
 input[type="text"] {
     font-size: 100%;
