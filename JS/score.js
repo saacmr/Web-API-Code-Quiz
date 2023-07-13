@@ -16,3 +16,4 @@ function printHighscores() {
   }
   document.getElementById("clear").onclick = clearHighscores;
   printHighscores();
+  
